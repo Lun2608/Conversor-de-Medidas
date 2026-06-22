@@ -7,9 +7,12 @@
 **Disciplina:** Práticas em Ciências de Dados (PCD)
 
 
-**Professores Orientadores:** Daniel Roberto Cassar,
-                              Leandro Nascimento Lemos,
-                              James Moraes de Almeida
+**Professores Orientadores:** 
+<ul>
+  Daniel Roberto Cassar- Doutor em Ciência e Engenharia de Materiais pela Universidade Federal de São Carlos (2014);
+  Leandro Nascimento Lemos- É graduado em Ciências Biológicas pela Universidade Federal do Pampa (UNIPAMPA), mestre em Bioinformática e doutor em Ecologia Molecular pela Universidade de São Paulo (USP);
+  James Moraes de Almeida- Bacharel em Física pela Universidade Federal de Santa Maria (2007), doutor em Nanociências e Materiais Avançados pela Universidade Federal do ABC (2012)
+</ul>
 
 
 **Linguagem:** Python

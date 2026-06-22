@@ -4,7 +4,7 @@
 **Aluno:** Luis Navarro Erbetta
 
 
-**Disciplina:** PCD
+**Disciplina:** Práticas em Ciências de Dados (PCD)
 
 
 **Professores Orientadores:** Daniel Roberto Cassar,

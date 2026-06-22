@@ -1,0 +1,16 @@
+Requisitos para reprodução do projeto
+
+
+Versão do Pyhton:
+
+A versão do Python que foi utilizada é 3.13.7, informação que pode ser encontrada nos metadados do notebook
+
+
+Versão da biblioteca Tkinter:
+
+A versão da biblioteca Tkinter utilizada é 8.6.15, informação que pode ser obtida através da linha de código:
+
+import tkinter as tk
+root = tk.Tk()
+print(root.tk.call("info", "patchlevel"))
+root.destroy()

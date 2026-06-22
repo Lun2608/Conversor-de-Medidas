@@ -35,7 +35,7 @@ O projeto foi desenvolvido inteiramente em Python, aproveitando das bibliotecas 
 <ul>
   <li>Passo 1: Clonar o repositório ou baixar o arquivo <code>.ipynb</code> </li>
   <li>Passo 2: Instalar a biblioteca <code>tkinter</code> pelo comando <code>pip install tk</code> no terminal</li>
-  <li>Passo 3: Abrir o arquivo <code>Entrega_do_projeto.ipynb</code> no Jupyter Notebook ou no JupyterLab</li>
+  <li>Passo 3: Abrir o arquivo <code>Projeto_final.ipynb</code> no Jupyter Notebook ou no JupyterLab</li>
   <li>Passo 4: Executar todas as células em ordem, de cima para baixo</li>
   <li>Passo 5: A interface gráfica do Conversor de Medidas será aberta automaticamente após rodar a última célula do código </li>
 </ul>

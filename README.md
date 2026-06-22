@@ -1,8 +1,17 @@
 <img width="6000" alt="Um programa em Python capaz de converter unidades de Celsius para Fahrenheit, de Milhas para Metros, de Dólar para Real, e outras  Três grandezas, um código" src="https://github.com/user-attachments/assets/a32e2202-e3cc-4ebe-a2e6-93f2a3cc91e9" />
 
 ---
+**Aluno:** Luis Navarro Erbetta
+
 
 **Disciplina:** PCD
+
+
+**Professores Orientadores:** Daniel Roberto Cassar,
+                              Leandro Nascimento Lemos,
+                              James Moraes de Almeida
+
+
 **Linguagem:** Python
 
 ## Resumo
@@ -14,7 +23,8 @@ O projeto foi desenvolvido inteiramente em Python, aproveitando das bibliotecas 
 
 ## Interface Gráfica
 A interface foi construída para oferecer uma experiência de uso simples e direta. O usuário insere o valor que deseja converter, seleciona a unidade de entrada e a unidade de saída por meio de botões, e obtém o resultado de forma imediata. Essa abordagem elimina a necessidade de interação via linha de comando, tornando o programa acessível a pessoas sem familiaridade com programação.
-- Módulo de Temperatura
+
+## Módulo de Temperatura
 - O módulo de temperatura suporta conversões entre as três escalas termométricas mais utilizadas:
 - Celsius (°C): escala padrão no Brasil e na maioria dos países.
 - Fahrenheit (°F): amplamente utilizada nos Estados Unidos.
@@ -43,3 +53,19 @@ O desenvolvimento deste projeto permitiu consolidar uma série de competências 
 A organização do projeto se mostrou uma decisão acertada: ao separar cada categoria de conversão em sua própria célula, tornou-se simples adicionar novas unidades ou corrigir eventuais problemas sem impactar o restante da aplicação.
 Entre os desafios enfrentados, destacam-se a programação adequada da interface e como relacioná-la com as conversões do código. 
 Em síntese, o Conversor de Medidas cumpriu plenamente os objetivos propostos, entregando uma aplicação útil, funcional e bem estruturada, que demonstra de forma prática os fundamentos da programação em Python aplicados a um problema do cotidiano.
+
+## Referências 
+**Tkinter**
+Tkinter no Python: Guia Completo - Crie Interfaces do Zero. Disponível em: <https://www.hashtagtreinamentos.com/tkinter-no-python?conversion=base-py-go-post&gad_source=1&gad_campaignid=15353425825&gbraid=0AAAAADLlh8-DtN5wrsZmYCnN2d62HYQnT&gclid=Cj0KCQjw3K7RBhDJARIsAKRtP5TNYPFVnxS0LcSCmRxdgE8NwulmxSPWW9LuITwgE2GqV4fYHtpLqcgaAneeEALw_wcB>. Acesso em: 22 jun. 2026.
+
+‌PYTHON SOFTWARE FOUNDATION. tkinter — Python interface to Tcl/Tk — Python 3.7.2 documentation. Disponível em: <https://docs.python.org/3/library/tkinter.html>.
+
+‌**Taxas de câmbio**
+XE CURRENCY CONVERTER. XE: The World's Trusted Currency Authority. Disponível em: https://www.xe.com. Acesso em: 22 jun. 2026.
+
+EXCHANGE-RATES.ORG. Exchange Rates — Currency Converter. Disponível em: https://www.exchange-rates.org. Acesso em: 22 jun. 2026.
+
+**Programação do código**
+CASSAR, Daniel R. ATP-103 A - Funções. [S. l.], 2025. 1 Jupyter Notebook (ATP-103_A_-_Funções__1_.ipynb). Disponível em: arquivo local. Acesso em: 22 jun. 2026.
+
+CASSAR, Daniel R. ATP-103 B - Funções anônimas em Python. [S. l.], 2025. 1 Jupyter Notebook (ATP-103_B_-_Funções_anônimas_em_Python.ipynb). Disponível em: arquivo local. Acesso em: 22 jun. 2026.

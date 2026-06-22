@@ -56,16 +56,19 @@ Em síntese, o Conversor de Medidas cumpriu plenamente os objetivos propostos, e
 
 ## Referências 
 **Tkinter**
+
 Tkinter no Python: Guia Completo - Crie Interfaces do Zero. Disponível em: <https://www.hashtagtreinamentos.com/tkinter-no-python?conversion=base-py-go-post&gad_source=1&gad_campaignid=15353425825&gbraid=0AAAAADLlh8-DtN5wrsZmYCnN2d62HYQnT&gclid=Cj0KCQjw3K7RBhDJARIsAKRtP5TNYPFVnxS0LcSCmRxdgE8NwulmxSPWW9LuITwgE2GqV4fYHtpLqcgaAneeEALw_wcB>. Acesso em: 22 jun. 2026.
 
 ‌PYTHON SOFTWARE FOUNDATION. tkinter — Python interface to Tcl/Tk — Python 3.7.2 documentation. Disponível em: <https://docs.python.org/3/library/tkinter.html>.
 
 ‌**Taxas de câmbio**
+
 XE CURRENCY CONVERTER. XE: The World's Trusted Currency Authority. Disponível em: https://www.xe.com. Acesso em: 22 jun. 2026.
 
 EXCHANGE-RATES.ORG. Exchange Rates — Currency Converter. Disponível em: https://www.exchange-rates.org. Acesso em: 22 jun. 2026.
 
 **Programação do código**
+
 CASSAR, Daniel R. ATP-103 A - Funções. [S. l.], 2025. 1 Jupyter Notebook (ATP-103_A_-_Funções__1_.ipynb). Disponível em: arquivo local. Acesso em: 22 jun. 2026.
 
 CASSAR, Daniel R. ATP-103 B - Funções anônimas em Python. [S. l.], 2025. 1 Jupyter Notebook (ATP-103_B_-_Funções_anônimas_em_Python.ipynb). Disponível em: arquivo local. Acesso em: 22 jun. 2026.

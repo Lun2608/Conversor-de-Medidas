@@ -42,7 +42,7 @@ Toda a lógica de cálculo foi organizada em funções específicas para cada ti
 
 ## Como posso rodar o Projeto na minha máquina?
 <ul>
-  <li>Passo 1: Clonar o repositório ou baixar o arquivo `.ipynb`</li>
+  <li>Passo 1: Clonar o repositório ou baixar o arquivo `.ipynb` </li>
   <li>Passo 2: Instalar a biblioteca `tkinter` pelo comando `pip install tk` no terminal</li>
   <li>Passo 3: Abrir o arquivo `Entrega_do_projeto.ipynb` no Jupyter Notebook ou no JupyterLab</li>
   <li>Passo 4: Executar todas as células em ordem, de cima para baixo</li>

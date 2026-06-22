@@ -40,6 +40,15 @@ O módulo de taxas de câmbio permite ao usuário converter valores monetários 
 ## Lógica de Programação
 Toda a lógica de cálculo foi organizada em funções específicas para cada tipo de conversão. A separação entre a camada de lógica e a camada de interface facilita a manutenção e a eventual expansão do projeto.
 
+## Como posso rodar o Projeto na minha máquina?
+<ul>
+  <li>Passo 1: Clonar o repositório ou baixar o arquivo .ipynb</li>
+  <li>Passo 2: Instalar a biblioteca tkinter pelo comando "pip install tk" no terminal</li>
+  <li>Passo 3: Abrir o arquivo Entrega_do_projeto.ipynb no Jupyter Notebook ou no JupyterLab</li>
+  <li>Passo 4: Executar todas as células em ordem, de cima para baixo</li>
+  <li>Passo 5: A interface gráfica do Conversor de Medidas será aberta automaticamente após rodar a última célula do código </li>
+</ul>
+
 ## Resultados
 Ao final do desenvolvimento, o Conversor de Medidas apresentou os seguintes resultados:
 Interface funcional e responsiva: a interface responde corretamente às entradas do usuário, exibindo os resultados de forma clara e em tempo real.
